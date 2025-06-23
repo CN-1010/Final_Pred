@@ -1,0 +1,5 @@
+xgboost>=1.6.0
+streamlit>=1.22
+pandas
+numpy
+scikit-learn
